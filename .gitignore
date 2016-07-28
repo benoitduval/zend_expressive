@@ -2,3 +2,5 @@
 composer.phar
 phpunit.xml
 vendor/
+public/bootstrap
+public/font-awesome
